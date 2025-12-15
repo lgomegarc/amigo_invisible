@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "752362678954",
+    "project_id": "amigo-invisible-limpio",
+    "storage_bucket": "amigo-invisible-limpio.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752362678954:android:ac06b7ae091f4420b07ed3",
+        "android_client_info": {
+          "package_name": "com.example.amigo_invisible"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmfCtZ-c1502kxnvMGmheArvf6VJyNcFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
